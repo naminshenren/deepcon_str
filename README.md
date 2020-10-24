@@ -1,9 +1,9 @@
 # deepcon_str
 This code is adapted from [*DeepCas* as described in the paper](https://arxiv.org/abs/1611.05373):
 	
-	DeepCas: an End-to-end Predictor of Information Cascades
-	Cheng Li, Jiaqi Ma, Xiaoxiao Guo and Qiaozhu Mei
-	World wide web (WWW), 2017
+	Prediction of Information Cascades via Content and Structure Proximity Preserved Graph Level Embedding
+	Xiaodong Feng, Qihang Zhao, Zhen Liu. 
+	Under the second-round review of Information Sciences.
 
 ### Basic Usage
 
@@ -50,7 +50,8 @@ python run.py
 
 ## Citing
 If you find *DeepCon+Str* useful for your research, please consider citing the following paper:
-
+Xiaodong Feng, Qihang Zhao, Zhen Liu. Prediction of Information Cascades via Content and Structure Proximity Preserved Graph Level Embedding, 
+Under the second-round review of Information Sciences.
 	
 
 ## Miscellaneous
